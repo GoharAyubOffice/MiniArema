@@ -1,5 +1,4 @@
 using UnityEngine;
-using KinematicCharacterController;
 using KinematicCharacterController.Examples;
 
 public class JumpOnCollision : MonoBehaviour
