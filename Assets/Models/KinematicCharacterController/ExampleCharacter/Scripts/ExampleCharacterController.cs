@@ -69,7 +69,7 @@ namespace KinematicCharacterController.Examples
         public Vector3 Gravity = new Vector3(0, -30f, 0);
         public Transform MeshRoot;
         public Transform CameraFollowPoint;
-        public float CrouchedCapsuleHeight = .5f;
+        public float CrouchedCapsuleHeight = 1f;
 
         public CharacterState CurrentCharacterState { get; private set; }
 
